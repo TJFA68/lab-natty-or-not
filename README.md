@@ -22,21 +22,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
+ Título do Projeto “Compreendendo as mudanças climáticas”
+
 ## 📒 Descrição
-Breve descrição do seu projeto
+E-book sobre mudanças climáticas para adolescentes.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização;
+    • IA Generativa Leonardo AI para criar a arte visual do e-book;
+    • 
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A partir de pesquisas em diversos sites ambientais,utilizei o "ChatGPT" para revisar minha pesquisa , estruturar o conteúdo. Usei o o, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. A montagem final foi feita no Libre Office.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta, de forma bem didática, um conteúdo atual e que mostra, de forma bem prática, as consequências das mudanças climáticas causadas  pelas ações dos seres humnos.A IA generativa foi  uma ferramenta poderosa na educação e na disseminação do conhecimento. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
+
 
 ### Exemplos e Insigths
 
